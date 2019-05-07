@@ -1,9 +1,9 @@
 package student;
 
 public class live {
-	private int id;
-	private String username;
-	private String password;
+	private int id;//id
+	private String username;//用户名
+	private String password;、、密码
 	private int sex;
 	public live(int id, String username, String password, int sex) {
 		super();
